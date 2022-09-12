@@ -3,9 +3,9 @@
 
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍</g-emoji> You can find my projects here <a href="https://gagandeepgahir21.github.io/profile/" rel="nofollow">portfolio</a></li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning React, Angular, Vue, jQuery </li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning about React, Angular, Vue, jQuery.</li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: He/His</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <a href="linkedin.com/in/gagandeep-singh-gahir-5a3123179">LinkedIn</a>,  <a href="https://www.instagram.com/gagandeepgahir1/">Instagram</a></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <a href="linkedin.com/in/gagandeep-singh-gahir-5a3123179">LinkedIn</a> & <a href="https://www.instagram.com/gagandeepgahir1/">Instagram.</a></li>
   
 
 </ul>
