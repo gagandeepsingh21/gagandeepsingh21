@@ -9,7 +9,7 @@
 
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Web Development or any tech-related stuff.</li>
 
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <a href="linkedin.com/in/gagandeep-singh-gahir-5a3123179">LinkedIn</a> & <a href="https://www.instagram.com/gagandeepgahir1/">Instagram.</a></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <a href="https://www.linkedin.com/in/gagandeep-singh-gahir-5a3123179">LinkedIn</a> & <a href="https://www.instagram.com/gagandeepgahir1/">Instagram.</a></li>
 
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: I am interested in sport like Cricket, Darts, Table Tennis etc.</li>
   
