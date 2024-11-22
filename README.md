@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepsingh21&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepsingh21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagandeepsingh21" alt="gagandeepsingh21" /></a> </p>
-
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **JavaScript, React, Laravel**
