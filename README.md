@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepsingh21&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepsingh21" /> </p>
 
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **JavaScript, React, Laravel**
-
 - 📫 How to reach me **gagandeepgahir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
