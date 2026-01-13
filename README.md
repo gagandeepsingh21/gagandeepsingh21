@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate software developer from Kenya</h3>
 <a href="https://wakatime.com/@af1de833-653e-49e6-a17c-0c3e447b69a0"><img src="https://wakatime.com/badge/user/af1de833-653e-49e6-a17c-0c3e447b69a0.svg" alt="Total time coded since Sep 12 2024" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepsingh21&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepsingh21" /> </p>
