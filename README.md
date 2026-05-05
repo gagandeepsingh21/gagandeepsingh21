@@ -19,21 +19,14 @@
 
 ### 🌐 Connect with Me
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://linkedin.com/in/gagandeep-singh-gahir-5a3123179">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td>
-      <a href="https://leetcode.com/gagandeepsingh21">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://linkedin.com/in/gagandeep-singh-gahir-5a3123179">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/gagandeepsingh21">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
