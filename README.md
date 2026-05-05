@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+<h3 align="left">🛠️ Languages & Tools</h3>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
