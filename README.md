@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/gagandeep-singh-gahir-5a3123179" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
   </a>
@@ -34,7 +34,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,react,tailwind,bootstrap,docker,linux,mysql,postgres&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,tailwind,bootstrap,docker,linux,mysql,postgres&perline=7" />
 </p>
 
 ---
@@ -42,8 +42,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh21&show_icons=true&theme=tokyonight" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gagandeepsingh21&theme=tokyonight" />
 </p>
 
